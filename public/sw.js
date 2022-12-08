@@ -18,9 +18,16 @@ const APP_SHELL = [
     "img/avatars/piccolo.jpg",
     "img/avatars/trunks.jpg",
     "img/avatars/vegeta.jpg",
+    "img/avatars/gus.jpg",
+    "img/avatars/jesse.jpg",
+    "img/avatars/mike.jpg",
+    "img/avatars/lalo.jpg",
+    "img/avatars/saul.jpg",
+    "img/avatars/walther.jpg",
     "js/app.js",
     "js/sw-utils.js",
-    "js/camara-class.js"
+    "js/camara-class.js",
+    "js/push.min.js"
 
 
 ];
