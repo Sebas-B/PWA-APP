@@ -9,7 +9,7 @@
     margin: 0px !important;
     color: #7f8c8d;
     font-size: 16px;
-    background-color: #FE7900; 
+    background-color: #080808; 
     width: 100%;
 
 
@@ -52,7 +52,7 @@
   top: 1000px;
   height: 100%;
   width: 100%;
-  background-color: #FE7600;
+  background-color: #080808;
   z-index: 999;
   opacity: 0;
 }
@@ -116,7 +116,7 @@ textarea {
 .fab {
   width: 70px;
   height: 70px;
-  background-color: #C73E08;
+  background-color: #080808;
   border-radius: 50%;
   box-shadow: 0 2px 6px 0 #666;
   transition: all 0.1s ease-in-out;
@@ -213,7 +213,7 @@ textarea {
     width: 100%;
     display: block;
     list-style-type: none;
-    background-color: #FE7900;
+    background-color: #080808;
     padding-bottom: 2em;
     padding-left: 0px;
     margin-bottom: 2em; 
@@ -222,7 +222,7 @@ textarea {
       padding: 1em 0; 
     }
     .timeline li:nth-child(even) {
-      background-color: #FFB571; 
+      background-color: #080808; 
     }
   
   .avatar {
@@ -257,7 +257,7 @@ textarea {
     top: 0px;
 
     margin: auto;
-    background-color: #C73E08;
+    background-color: #284f26;
     text-shadow: #2084c7 1px 1px 0;
     padding: 1em 0 !important;
     color: white;
@@ -373,7 +373,7 @@ and (-webkit-device-pixel-ratio : 3) {
     transition-timing-function: ease; }
     .icon-star:hover {
       cursor: pointer;
-      color: #f39c12; }
+      color: #284f26; }
   
   .icon-retweet {
     -webkit-transition-property: all;
