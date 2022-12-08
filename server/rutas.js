@@ -43,4 +43,8 @@ router.post("/", (req, resp) => {
     });
 });
 
+router.get("/indexDB", (req, resp) => {
+    resp.render("../public/pages/indexDB.html");
+});
+
 module.exports = router;

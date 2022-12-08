@@ -27,7 +27,8 @@ const APP_SHELL = [
     "js/app.js",
     "js/sw-utils.js",
     "js/camara-class.js",
-    "js/push.min.js"
+    "js/push.min.js",
+    "js/script.js",
 
 
 ];

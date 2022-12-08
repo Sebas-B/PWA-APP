@@ -40,7 +40,7 @@ function enviarMensaje(){
                return db.remove( doc );
             });
 
-            mensaje.push(prom);
+            mensajes.push(prom);
         });
         return Promise.all(mensajes);
     });

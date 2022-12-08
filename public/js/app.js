@@ -13,10 +13,6 @@ if ( navigator.serviceWorker ) {
     navigator.serviceWorker.register( swLocation );
 }
 
-
-
-
-
 // Referencias de jQuery
 
 var titulo      = $('#titulo');
@@ -86,9 +82,6 @@ function crearMensajeHTML(mensaje, personaje, lat, lng, foto) {
     cancelarBtn.click();
 
 }
-
-
-
 
 // Globals
 function logIn( ingreso ) {
@@ -320,7 +313,7 @@ function push(){
 
         onClick: function() {
 
-            window.location="https://google.es";
+            parent.location='../pages/indexDB.html';
 
             console.log(this);
 
